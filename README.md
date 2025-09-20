@@ -3,6 +3,6 @@ Taller 3
 
 Integrantes
 
-Tayakee_Demetrio_Oriana Cod 36862
+Tayakee_Demetrio_Oriana_Cod_36862
 
-Jeison_Andrés_Lagos_Báez Cod 55200
+Jeison_Andrés_Lagos_Báez_Cod_55200
